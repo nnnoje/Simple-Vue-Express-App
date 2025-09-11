@@ -103,7 +103,7 @@ html, body {
   color: #ffffff !important;
 }
 
-/* ✅ 3x3 grid */
+/* 3x3 grid */
 .movie-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -119,7 +119,7 @@ html, body {
   align-items: center;
   text-align: center;
 
-  /* ✅ Start hidden and animate in */
+  /* Start hidden and animate in */
   opacity: 0;
   transform: scale(0.9);
   animation: fadeZoomIn 0.8s ease forwards;
