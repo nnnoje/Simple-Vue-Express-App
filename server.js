@@ -32,8 +32,8 @@ const items = [
   },
   { 
     id: 6, 
-    name: "SPEAK NO EVIL",  // ✅ new text
-    image: "http://localhost:3000/images/de48b6fc4db56abf2a86bff02ed85643.jpg" // ✅ new image
+    name: "SPEAK NO EVIL",  
+    image: "http://localhost:3000/images/de48b6fc4db56abf2a86bff02ed85643.jpg" 
   }
 ];
 
